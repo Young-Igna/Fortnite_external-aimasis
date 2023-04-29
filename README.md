@@ -9,3 +9,5 @@ COMANDS:
 python klaver.py setup    (enter your game sensitivity)
 
 python klaver.py    (open cheat)
+
+res 1920x1080 only
