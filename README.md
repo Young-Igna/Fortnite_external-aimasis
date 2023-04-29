@@ -9,7 +9,7 @@ The basis of Klaver's player detection is the [YOLOv5](https://github.com/ultral
 
 A demo video (outdated) can be found [here](https://www.youtube.com/watch?v=XDAcQNUuT84).
 
-![thumbnail](blob:https://web.whatsapp.com/daea2797-ef7e-451b-8938-102e397f9233)
+![thumbnail](https://github.com/Young-Igna/klaver/blob/main/WhatsApp%20Image%202023-04-28%20at%208.53.00%20PM.jpeg)
 
 ## Installation
 
