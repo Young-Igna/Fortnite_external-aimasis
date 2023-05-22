@@ -1,4 +1,4 @@
-# Klaver
+# Klaver v2
 Klaver is a neural network aim assist that uses real-time object detection accelerated with CUDA on Nvidia GPUs.
 
 ## About
